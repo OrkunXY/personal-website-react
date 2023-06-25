@@ -10,13 +10,13 @@
         "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
         "summary": "based in Bremen, Germany.",
         "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "url": "https://orkunxy.com",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
             "city": "Ankara",
             "country": "Turkey",
-            "countryCode": "DEU",
+            "countryCode": "TR",
             "region": "Bremen"
         },
         "profiles": [
@@ -24,25 +24,25 @@
                 "network": "Shop",
                 "username": "0rkunXY Shop",
                 "url": "https://localhost:3000/shop",
-                "x_icon": "fab fa-bucket"
+                "x_icon": "fas fa-shopping-cart"
             },
             
             {
                 "network": "LinkedIn",
-                "username": "jolienhoop",
+                "username": "orkunka",
                 "url": "https://www.linkedin.com/in/orkunka",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "johoop",
+                "username": "OrkunXY",
                 "url": "https://github.com/OrkunXY",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "Google",
-                "username": "orkunxy@gmail.com",
-                "url": "mailto:hey@jolienhoop.com",
+                "username": "orkunxy",
+                "url": "mailto:orkunxy@gmail.com",
                 "x_icon": "fab fa-google"
             }
             
